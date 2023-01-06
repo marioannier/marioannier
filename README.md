@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mario Gonzalez</h1>
-<h3 align="center">I am a telecommunication engineer with a passion for coding. I am excited to share my knowledge and learn from others.</h3>
+<h3 align="left">I am a telecommunication engineer with a passion for coding. I am excited to share my knowledge and learn from others.</h3>
+<img align='right' width='300' alt='coding' src='https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'/>
 
-- 📫 How to reach me **magonpe8@iteam.upv.es**
+📫 How to reach me **magonpe8@iteam.upv.es**
 
 <h3 align="left">Connect with me:</h3> 
+
 <p align="left"> <a href="https://twitter.com/marioagp_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marioagp_10" height="30" width="40" />@marioagp_10</a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
