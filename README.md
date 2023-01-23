@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mario Gonzalez</h1>
-<h3 align="left">I am a telecommunication engineer with a passion for coding. I am excited to share my knowledge and learn from others.</h3>
+<h3 align="left">My passion is coding, and as a Telecommunication Engineer, I am excited to share my knowledge and learn from others.</h3>
 <img align='right' width='300' alt='coding' src='https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'/>
 
 📫 How to reach me **magonpe8@iteam.upv.es**
