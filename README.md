@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3> 
 
-<p align="left"> <a href="https://twitter.com/marioagp_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marioagp_10" height="20" width="20" />  @mario_annier</a> </p>
+<p align="left"> <a href="https://twitter.com/mario_annier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mario_annier" height="20" width="20" />  @mario_annier</a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/> </a> 
