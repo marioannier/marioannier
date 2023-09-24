@@ -4,7 +4,7 @@
 
 📫 How to reach me **magonpe8@iteam.upv.es**
 
-💻 View my work [**HERE**](https://marioannier.github.io/){:target="_blank"}
+💻 View my work <a href="https://marioannier.github.io/" target="_blank">**HERE**</a>
 
 <h3 align="left">Connect with me:</h3> 
 
