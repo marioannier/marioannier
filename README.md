@@ -4,6 +4,8 @@
 
 📫 How to reach me **magonpe8@iteam.upv.es**
 
+💻 View my work [**HERE**](https://marioannier.github.io/)
+
 <h3 align="left">Connect with me:</h3> 
 
 <p align="left"> <a href="https://twitter.com/mario_annier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mario_annier" height="20" width="20" />  @mario_annier</a> </p>
